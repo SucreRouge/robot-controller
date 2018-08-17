@@ -6,7 +6,7 @@ data.csv
 ***********************
 data1.csv and data2.csv are essentially same
 data1.csv can be read by numpy whereas data2.csv is raw data csv file
-data1.csb and data2.csv are training data files
+data1.csv and data2.csv are training data files
 data3.csv is testing data file
 Contains comma seperated training data.
 The fields are:
